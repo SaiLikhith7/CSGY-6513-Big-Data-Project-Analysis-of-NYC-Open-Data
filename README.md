@@ -1,5 +1,7 @@
 # CSGY-6513-Big-Data-Project-Analysis-of-NYC-Open-Data
-![Sai Likhith](https://img.shields.io/badge/Sai%20LIkhith-NYC%20Open%20Data-Green)
+![Sai Likhith](https://img.shields.io/badge/Sai%20Likhith-NYC%20Open%20Data-Green)
+<br>
+</br>
 This repository contains the code and outputs along with the execution instructions for the profiling and analysis of datasets from NYC Open Data.
 A copy of this data is also available in NYU HDFS in the following path : /user/rv1130/2019BD-project-results
 
